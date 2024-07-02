@@ -1,4 +1,4 @@
-# f
+![product-color-icons](https://github.com/fatmamohsenmohamed/customer-data-visualization/assets/125199503/19b57d1a-09ad-4153-858d-8fea713ac6d8)
 # customer data
 
 ## Overview
@@ -19,7 +19,8 @@ To view the dashboard:
 ![power dashboard](https://github.com/fatmamohsenmohamed/f/assets/125199503/e0fa5a2c-68bd-4c90-8c78-1cd802b36b35)
 
 ## Data Sources
-- **Raw Data:** [Source of raw data]
+- **Raw Data:** [![Uploading product-color-icons.svg…]
+
 - **Tools Used:** Excel for data analysis and visualization.
 
 ## Contributing
