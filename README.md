@@ -19,9 +19,7 @@ To view the dashboard:
 ![power dashboard](https://github.com/fatmamohsenmohamed/f/assets/125199503/e0fa5a2c-68bd-4c90-8c78-1cd802b36b35)
 
 ## Data Sources
-- **Raw Data:** [![power dashboard](https://github.com/fatmamohsenmohamed/f/assets/125199503/e0fa5a2c-68bd-4c90-8c78-1cd802b36b35)]
-
-- **Tools Used:** Excel for data analysis and visualization.
+- **Tools Used:** power bi for data analysis and visualization.
 
 ## Contributing
 - Contributions are welcome! Fork the repository and submit a pull request with your improvements.
