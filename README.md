@@ -12,7 +12,7 @@ This power bi dashboard provides visualizations and insights into categorical an
 ## Getting Started
 To view the dashboard:
 1. **Clone the Repository:** `git clone [repository-url]`
-2. **Open Excel File:** Navigate to `[Customer_Data.csv](https://github.com/user-attachments/files/16070754/Customer_Data.csv)` and open it in Microsoft Excel.
+2. **Open Excel File:** Navigate to [Customer_Data.csv][https://github.com/user-attachments/files/16070754/Customer_Data.csv] and open it in Microsoft Excel.
 3. **Explore Data:** Use filters and interactive elements to explore different aspects of the data.
 
 ## Screenshots
