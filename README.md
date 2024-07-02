@@ -1,4 +1,4 @@
-![product-color-icons](https://github.com/fatmamohsenmohamed/customer-data-visualization/assets/125199503/19b57d1a-09ad-4153-858d-8fea713ac6d8)
+
 # customer data
 
 ## Overview
